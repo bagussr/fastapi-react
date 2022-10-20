@@ -1,4 +1,4 @@
-virtual
+env
 /ui/node_modules
 /ui/yarn.lock
 /app/app/__pycache__
